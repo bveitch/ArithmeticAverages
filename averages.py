@@ -6,7 +6,7 @@ Created on Tue Jan 19 18:19:48 2021
 description : Averages of Arithemetic functions and their plots 
 author      : bveitch
 version     : 1.0
-project     : Averages of arithemtic functions
+project     : Averages of arithmetic functions
 
 Supported functions:
     Dirichlet divisor. Averaging the number of divisors of an integer.
