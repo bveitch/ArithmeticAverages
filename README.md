@@ -1,9 +1,9 @@
 # ArithmeticAverages
-Averages of arithmetic functions
+
 Simple code to calculate averages of the form,
-sum_{1<n<x} f(n), 
-where f(n) is an arithmetic function of the form,
-sum_{d divides n} a(d). 
+sum_{1<n<x} f(n),\ 
+where, f(n) is an arithmetic function of the form,\
+sum_{d divides n} a(d). \
 
 Examples of this are:\
 Dirichlet divisor problem  : f(n) = sum_{d divides n} 1\
